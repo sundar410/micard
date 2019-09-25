@@ -51,7 +51,7 @@ class Micard extends StatelessWidget {
                       width: 10.0,
                     ),
                     Text(
-                      '9442981835',
+                      '9442981621',
                       style: TextStyle(
                         fontFamily: 'Roboto',
                         fontSize: 40,
@@ -78,7 +78,7 @@ class Micard extends StatelessWidget {
                       ),
                     ),
                     Text(
-                      'm.sundar410@gmail.com',
+                      'm.sundar@gmail.com',
                       style: TextStyle(
                         fontFamily: 'Roboto',
                         fontSize: 40,
